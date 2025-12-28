@@ -10,6 +10,7 @@
 - 👯 I’m looking to collaborate on **Full Stack Web Projects** and **Community Initiatives**.
 - 🤝 I am an active **NSS Coordinator**, organizing events.
 - 💬 Ask me about **C++, Python**, and **VR/AR trends**.
+- ⚡ Fun fact **I love playing co-op PC games like "It Takes Two" in my free time!**
 
 ---
 
