@@ -56,6 +56,6 @@
 
 ### 🌐 Connect with me:
 <p align="left">
-<a href="https://linkedin.com/in/bhushan kasture" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhushan kasture" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/bhushankasture" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhushankasture" height="30" width="40" /></a>
 <a href="https://instagram.com/bhushankasturee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bhushankasturee" height="30" width="40" /></a>
 </p>
