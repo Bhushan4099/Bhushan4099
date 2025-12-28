@@ -2,7 +2,7 @@
 <h3 align="center">A passionate B.Tech Student & Developer from Pune 🇮🇳</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&label=Profile%20views&color=0e75b6&style=flat" alt="Bhushan4099" />
+  <img src="https://komarev.com/ghpvc/?Bhushan4099=your-github-username&label=Profile%20views&color=0e75b6&style=flat" alt="Bhushan4099" />
 </p>
 
 ---
