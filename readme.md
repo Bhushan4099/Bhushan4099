@@ -5,7 +5,7 @@
 
 ## 💫 About Me:
 
-- 🔭 I’m currently working on a **VR College Walkthrough** (associated with **5G Labs & Sanchar Mitra**).
+- 🔭 I’m currently working on a **DHUMKETU- AI Fire Detection Model** (associated with **5G Labs & Sanchar Mitra**).
 - 🌱 I’m currently learning **Node.js, React.js**, and mastering **Data Structures & Algorithms**.
 - 👯 I’m looking to collaborate on **Full Stack Web Projects** and **Community Initiatives**.
 - 🤝 I am an active **NSS Coordinator**, organizing events.
